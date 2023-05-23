@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\labs\Project_play\Source.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\labs\Project_play\Source.cpp(110,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\labs\Project_play\Source.cpp(442,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\labs\Project_play\Source.cpp(444,50): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\labs\Project_play\Source.cpp(444,50): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\labs\Project_play\Source.cpp(455,45): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\labs\Project_play\Source.cpp(480,67): warning C4129: :
+  Project_play.vcxproj -> C:\labs\Project_play\x64\Debug\Project_play.exe

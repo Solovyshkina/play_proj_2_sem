@@ -15,6 +15,7 @@ using namespace std;
 
 int main()
 {
+    system("chcp 1251");
     setlocale(LC_ALL, "ru");
     int n, choice;
     start();

@@ -4,6 +4,7 @@
 #include <cstdlib> // Needed to use random numbers
 #include <ctime>
 #include <array>
+#include "Additional.h"
 using namespace std;
 
 void victorina()

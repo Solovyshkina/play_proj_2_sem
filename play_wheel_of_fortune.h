@@ -10,6 +10,7 @@ using namespace std;
 
 void play_wheel_of_fortune()
 {
+    system("chcp 1251");
     srand(time(NULL)); // "Seed" the random generator
     // Get player's betting amount
     char choice;
